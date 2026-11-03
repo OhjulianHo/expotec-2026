@@ -1,0 +1,12 @@
+amaenodb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=443)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g74e4e02495f366_amaenodb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+amaenodb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g74e4e02495f366_amaenodb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+amaenodb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g74e4e02495f366_amaenodb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+amaenodb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g74e4e02495f366_amaenodb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+amaenodb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-sanjose-1.oraclecloud.com))(connect_data=(service_name=g74e4e02495f366_amaenodb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
